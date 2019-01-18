@@ -4,8 +4,21 @@
   background: #959ca8;
   color: white;
   font-size: 30px;
+  margin-top: 25px;
+  margin-bottom: 50px;
 }
 
-.well {
+#match1, #match2, #match3 {
+width: 800px;
+margin: 30px auto 30px auto;
+text-align: center;
+display: none;
+}
 
+.btn-primary {
+  padding: 10px 20px 10px 20px;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+  text-align: center;
+  border-radius: 4px;
 }
