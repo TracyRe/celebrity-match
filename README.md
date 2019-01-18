@@ -1,6 +1,6 @@
-# Welcome Survey
+# Celebrity Match
 
-#### Portfolio Project for Epicodus - 2019-0117
+#### If Else Project Project for Epicodus - 2019-0117
 
 #### By Tracy Reith and Gary Bermudez
 
